@@ -1,2 +1,5 @@
-# domino-c
-Domino Project adalah proyek aplikasi permainan domino sederhana yang saya dan rekan saya, Raka, buat ketika tingkat 1 sebagai tugas akhir semester.
+&#x1F4CC; Domino
+===================
+- Type : small project
+- Status : &#x1F494; (not active)
+- Remarks : "My first grade final test project in my college with one of my friend" 
